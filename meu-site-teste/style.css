@@ -1,3 +1,19 @@
 body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
 .container { max-width: 700px; margin: 60px auto; padding: 20px; }
 button { padding: 10px 14px; cursor: pointer; }
+.footer {
+    max-width: 700px;
+    margin: 40px auto 20px;
+    padding: 16px 20px;
+    border-top: 1px solid #ddd;
+    opacity: 0.85;
+  }
+  
+  .footer a {
+    text-decoration: none;
+  }
+  
+  .footer a:hover {
+    text-decoration: underline;
+  }
+  
